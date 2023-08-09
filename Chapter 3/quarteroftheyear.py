@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 #3 QUARTER OF THE YEAR
 
 #Ask user to enter month between number 1 and 12
@@ -20,10 +14,3 @@ elif 10 <= month <= 12:
     print("The month is in the fourth quarter")
 else:
     print("Invalid entry. Please enter a valid number (between 1 and 12)")    
-
-
-# In[ ]:
-
-
-
-

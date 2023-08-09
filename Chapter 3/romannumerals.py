@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #4 ROMAN NUMERALS
 
 #Ask user to enter a number between number 1 and 12

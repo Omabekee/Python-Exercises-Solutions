@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 #1 NUMBER ANALYSER
 
 #Ask the user to enter a string and check if the string contains only digit

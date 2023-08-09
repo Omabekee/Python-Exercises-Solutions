@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #6 MAGIC DATE CALCULATOR
 
 #Ask user to enter month in numeric form, a day and a two-digit year

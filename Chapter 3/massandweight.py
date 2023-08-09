@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #5 MASS AND WEIGHT
 
 #Ask user to enter object's mass
